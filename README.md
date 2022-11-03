@@ -1,4 +1,4 @@
-![NLP_-_Reconhecimento_de_Sinais_em_Tempo_Real (2)](https://user-images.githubusercontent.com/105673165/194177408-a9bbc26f-2c09-4233-a81e-17d55d306563.png)
+![Real-Time_Hand_Sign_Recognition](https://user-images.githubusercontent.com/105673165/199635985-2081100e-75da-4f78-8325-e8dbe3c83d8c.png)
 
 ## Desafio 2 Hand Talk - Reconhecimento de Ações em Vídeo + Desafio Bônus (Real Time Classification).
 
