@@ -1,16 +1,14 @@
 ![Real-Time_Hand_Sign_Recognition](https://user-images.githubusercontent.com/105673165/199635985-2081100e-75da-4f78-8325-e8dbe3c83d8c.png)
 
-## Desafio 2 Hand Talk - Reconhecimento de Ações em Vídeo + Desafio Bônus (Real Time Classification).
+## Desenvolvimento de modelo de classificação de sinais de mão para reconhecimento em tempo real de ações em vídeo.
 
-### Objetivo
-Você precisará criar um sistema que reconhece determinadas ações em um vídeo, escolha pelo menos 20 ações diferentes (quantidade de classes). Utilize qualquer base de dados disponível na web, mas o seu sistema terá que ser validado, então certifique-se de que ele seja capaz de reconhecer a ação de qualquer entrada de vídeo nova, inclusive de uma webcam.
+### * Este projeto é o resultado de um desafio que recebi durante o processo seletivo para uma vaga de Cientista de Dados PL. O desafio era realizar o reconhecimento de ações em vídeo, além de outro desafio bônus onde o objetivo era realizar esse reconhecimento em tempo real.
 
-### Desafio bônus
-Uma vez cumprido o desafio, nós trazemos para você uma desafio bônus, aquele que não é obrigatório fazer, maaaaas irá encher os olhos do avalador com uma ⭐. Então bora lá…. o desafio bônus é: que o seu sistema seja capaz de reconhecer ações em tempo real.
-
-### Requisitos
+### * Os requisitos para a realização do desafio eram:
 Python 3+
+
 Tensorflow 2.x
+
 Necessário processar o frame com Mediapipe Holistic antes de enviar para o modelo.
 
 *---------------------------------------------------------------------------------------------------------------------------------*
