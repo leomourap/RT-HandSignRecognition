@@ -2,7 +2,7 @@
 
 ## Desenvolvimento de modelo de classificação de sinais de mão para reconhecimento em tempo real de ações em vídeo.
 
-#### * Este projeto é o resultado de um desafio que recebi durante o processo seletivo para uma vaga de Cientista de Dados PL. O desafio era realizar o reconhecimento de ações em vídeo, além de outro desafio bônus onde o objetivo era realizar esse reconhecimento em tempo real.
+#### * Este projeto é o resultado de um desafio que recebi durante um processo seletivo para uma vaga de Cientista de Dados PL. O desafio era desenvolver um modelo que classificasse pelo menos 20 classes de ações humanas. Também, havia um desafio bônus onde o objetivo era realizar esse reconhecimento em tempo real a partir de um vídeo.
 
 #### * Os requisitos para a realização do desafio eram:
 Python 3+
