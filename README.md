@@ -18,7 +18,7 @@ Bom, primeiramente tentei implementar uma CNN simples, utilizando um dataset de 
 Então precisei construir outro modelo trabalhasse com previsões a partir de dados no formato que o MediaPipe obtinha de minha WebCam.
 
 Minha referência inicial foi um projeto (Referência 1) onde o desenvolvedor utilizou o MediaPipe Hands para extrair informações e classificar os sinais em tempo real, porém utilizando um modelo pré-treinado (também da MediaPipe).
-* O MediaPipe Hands estava extraindo 3 coordenadas (x,y,z) de 21 pontos (portando uma array 21,3) da "Hand Landmark", então eu precisava treinar meu modelo para realizar previsões com dados similarmente formatados.
+* O MediaPipe Hands estava extraindo 3 coordenadas (x,y,z) de 21 pontos (portanto, um array 21,3) da "Hand Landmark", então eu precisava treinar meu modelo para realizar previsões com dados similarmente formatados.
 
 Então eu construí um modelo baseado em CNN, relativamente simples, alimentado com features (extraídas com MediaPipe) resultantes de imagens de um dataset disponível no Kaggle:
  https://www.kaggle.com/datasets/mlanangafkaar/datasets-lemlitbang-sibi-alphabets
